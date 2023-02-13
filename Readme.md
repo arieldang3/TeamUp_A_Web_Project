@@ -1,5 +1,5 @@
 # Teamup! A Teammate Matching Platform - A Web Project
-This is a full stack project developed with SpringBoot+Vue+MySQL
+This is a full stack project developed with **SpringBoot+Vue+MySQL**
 
 ## Video Demo!
 [Click Here for Demo!](https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing) https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing
