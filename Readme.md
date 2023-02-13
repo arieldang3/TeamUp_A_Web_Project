@@ -1,6 +1,9 @@
 # TeamUp - A Web Project
 This is a full stack project developed with SpringBoot+Vue+MySQL
 
+## Video Demo!
+[Click Here for Demo!](https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing) https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing
+
 ## Code Contribution
 Collaborated with 
 
@@ -16,5 +19,3 @@ Wenxin(Ariel) Dang: Course Module (25%)
 ![image](https://user-images.githubusercontent.com/111480129/218599606-00ebc0cc-41c1-4be1-b406-f233cbb72460.png)
 
 
-## Video Demo!
-[Click Here for Demo!](https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing) https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing
