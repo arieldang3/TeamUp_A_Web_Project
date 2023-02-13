@@ -16,5 +16,5 @@ Wenxin(Ariel) Dang: Course Module (25%)
 [zheng3z](https://github.com/zheng3z): Post Module (25%)
 
 ### Contribution to the Original Repository
-<img src="https://user-images.githubusercontent.com/111480129/218599606-00ebc0cc-41c1-4be1-b406-f233cbb72460.png"  width="600" height="500">
+<img src="https://user-images.githubusercontent.com/111480129/218599606-00ebc0cc-41c1-4be1-b406-f233cbb72460.png"  width="600" height="450">
 
