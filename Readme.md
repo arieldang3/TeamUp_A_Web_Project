@@ -5,8 +5,8 @@ This is a full stack project developed with **SpringBoot+Vue+MySQL**
 [Click Here for Demo!](https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing) 
 
 (If not work, try these links:)
-
-https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing
+- https://youtu.be/fKFQMmGVtVM
+- https://drive.google.com/file/d/12hR1sLsn6hPQGXjtP5xu8J929CTDm4zF/view?usp=sharing
 
 ## Desciption
 &emsp; The TeamUp is a teammate matching platform. 
