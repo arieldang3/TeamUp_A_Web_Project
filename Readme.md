@@ -20,7 +20,7 @@ Collaborated with
 
 [poros666](https://github.com/poros666): Team Module (25%)
 
-Wenxin(Ariel) Dang: Course Module (25%)
+==**Wenxin(Ariel) Dang: Course Module (25%)**==
 
 [yl2049](https://github.com/yl2049): User Module (25%)
 
