@@ -13,7 +13,16 @@ This is a full stack project developed with **SpringBoot+Vue+MySQL**
 
 &emsp; We discovered that students are expected to work together and learn collaboration skills in many courses. However, team formation is a prime issue. Sometimes instructors prefer to assign students to random groups so that students can meet and collaborate with more co-workers. Sometimes, instructors allow students to find team members on their own. Nonetheless, some students might be new to the school. They know very few people and cannot find classmates to pair with. Aditionally, courses may have a large class size, which increases the difficulty to manage or find teams. Thus, our team attempts to ease the process. We design a website that enables instructors to manage groups more efficiently and enables students to find more favorable teammates. 
 
-&emsp; On this platform, instructors can assign students to groups randomly or allow students to form their own groups. On the student's side, they can view their teams and their group members’ contact information. When self-assigned groups are allowed, students can submit their team information through this website. They can also post teammates finding announcements or look up messages to join a team. After teams are formed, instructors can view and download all teams’ information.
+&emsp; On this platform, instructors can 
+- assign students to groups randomly
+- allow students to form groups at their will
+- review, manage, and download all teams’ information
+  On students' side, they can
+- post teammates finding announcements
+- join a team or add a member to their team
+- submit team information
+- review, manage, and download their teams and their group members’ contact information
+
 
 ## Code Contribution
 Collaborated with 
