@@ -17,7 +17,8 @@ This is a full stack project developed with **SpringBoot+Vue+MySQL**
 - assign students to groups randomly
 - allow students to form groups at their will
 - review, manage, and download all teams’ information
-  On students' side, they can
+  
+&emsp; On students' side, they can
 - post teammates finding announcements
 - join a team or add a member to their team
 - submit team information
